@@ -45,7 +45,8 @@ Główna logika aplikacji z interfejsem tekstowym:
 
 ### 📁 Struktura projektu:
 
-![image](https://github.com/user-attachments/assets/467b5581-3645-4320-a381-bed3dc7ca2b6)
+![image](https://github.com/user-attachments/assets/d6bcf1ce-554e-4931-a6c6-8dbb9e0561f3)
+
 
 
 ### 💻 Kluczowy fragment programu:
